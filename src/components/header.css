@@ -1,0 +1,29 @@
+nav ul{
+    margin: 0px;
+    padding: 0px;
+}
+ nav ul li{
+    list-style: none;
+    padding: 0 23px;
+    padding: 1.6em 1.9em 1em 1.5em;
+    display: flex;
+    /* background: rgb(168, 160, 160); */
+    /* align-items: center; */
+    /* box-shadow: 0 4px 15px 0 #0d4888; */ 
+    /* z-index: 10; */
+    
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.head{
+    background-color: black;
+}
+
+
